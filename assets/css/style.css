@@ -266,6 +266,7 @@ footer .content {
   position: fixed;
   top: 50%;
   right: 16px;
+  z-index: 1;
   transform: translateY(-50px);
 
   padding: 16px;
